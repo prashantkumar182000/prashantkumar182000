@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGASYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">A passionate full stack Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162877/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar182000" /> </p>
 
 - 🔭 I’m currently working on [Stack Overflow Clone](https://github.com/prashantkumar182000/Stack-Overflow)
