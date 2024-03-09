@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif)](https://prashantkumar60099.netlify.app/)
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
-<h3 align="center">A passionate Frontend Development Developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SwJr1DGpCgkgNRxRhS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar182000" /> </p>
