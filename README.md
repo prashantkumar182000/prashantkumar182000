@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar182000" /> </p>
 
-- 🔭 I’m currently working on [Stack Overflow Clone](https://github.com/prashantkumar182000/Stack-Overflow)
+- 🔭 I’m currently working on [Todo.Hub - A todo app](https://github.com/prashantkumar182000/Todo_Hub)
 
-- 🌱 I’m currently learning **JDBC,Hibernate, serverlets, Spring**
+- 🌱 I’m currently learning **ReactJS, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar60099.netlify.app/](https://prashantkumar60099.netlify.app/)
 
 - 💬 Ask me about **• Java • C • Python • Javascript • HTML/CSS • Git/GitHub • MERN Stack**
 
-- 📫 How to reach me **kumarprashant18.pk@gmail.com**
+- 📫 How to reach me **prashantkumar18.pk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G8vNMzafg6Ud8gWjH3ECC7Ho6IQHOhp6/view](https://drive.google.com/file/d/1G8vNMzafg6Ud8gWjH3ECC7Ho6IQHOhp6/view)
 
