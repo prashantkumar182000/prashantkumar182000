@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar60099.netlify.app/](https://prashantkumar60099.netlify.app/)
 
-- 💬 Ask me about **• Java • C • Python • Javascript • HTML/CSS • Git/GitHub • MERN Stack**
+- 💬 Ask me about **• Java • C • Python • Javascript • HTML/CSS • ReactJs • Figma • Git/GitHub **
 
 - 📫 How to reach me **prashantkumar18.pk@gmail.com**
 
