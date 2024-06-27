@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sample-Dashboard---Beta-Phase](https://github.com/prashantkumar182000/Sample-Dashboard---Beta-Phase)
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar60099.netlify.app/](https://prashantkumar60099.netlify.app/)
 
