@@ -1,17 +1,17 @@
 [![MasterHead](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif)](https://prashantkumar60099.netlify.app/)
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SwJr1DGpCgkgNRxRhS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar182000" /> </p>
 
-- 🔭 I’m currently working on [Todo.Hub - A todo app](https://github.com/prashantkumar182000/Todo_Hub)
+- 🔭 I’m currently working on [Sample-Dashboard---Beta-Phase](https://github.com/prashantkumar182000/Sample-Dashboard---Beta-Phase)
 
 - 🌱 I’m currently learning **ReactJS, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar60099.netlify.app/](https://prashantkumar60099.netlify.app/)
 
-- 💬 Ask me about **• Java • C • Python • Javascript • HTML/CSS • ReactJs • Figma • Git/GitHub**
+- 💬 Ask me about **• Java • Python • Javascript • HTML/CSS • ReactJs •Tailwind CSS • Figma • Git/GitHub**
 
 - 📫 How to reach me **prashantkumar18.pk@gmail.com**
 
