@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LeaderBoard](https://github.com/prashantkumar182000/Leaderboard)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar60099.netlify.app/](https://prashantkumar60099.netlify.app/)
 
