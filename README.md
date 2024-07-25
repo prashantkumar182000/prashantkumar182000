@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar182000" /> </p>
 
-- 🔭 I’m currently working on [Sample-Dashboard---Beta-Phase](https://github.com/prashantkumar182000/Sample-Dashboard---Beta-Phase)
+- 🔭 I’m currently working on [LeaderBoard](https://github.com/prashantkumar182000/Leaderboard)
 
 - 🌱 I’m currently learning **NextJS**
 
