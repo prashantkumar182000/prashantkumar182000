@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BTC-USD-Chart-Dashboard](https://github.com/prashantkumar182000/BTC-USD-Chart-Dashboard)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://prashantkumar60099.netlify.app/](https://prashantkumar60099.netlify.app/)
 
