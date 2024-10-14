@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkumar182000" /> </p>
 
-- 🔭 I’m currently working on [LeaderBoard](https://github.com/prashantkumar182000/Leaderboard)
+- 🔭 I’m currently working on [BTC-USD-Chart-Dashboard](https://github.com/prashantkumar182000/BTC-USD-Chart-Dashboard)
 
 - 🌱 I’m currently learning **TypeScript**
 
