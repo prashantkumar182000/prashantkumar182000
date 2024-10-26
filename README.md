@@ -77,7 +77,7 @@
   <strong>Design Tools:</strong><br>
   
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-      <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fframer-color-icon%2F&psig=AOvVaw326c4qC2VvRwa_ZTVAX8oS&ust=1730013414559000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJia5rLAq4kDFQAAAAAdAAAAABAK)" alt="Framer" width="40" height="40"/>
+      <img src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" alt="Framer" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
