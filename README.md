@@ -91,9 +91,6 @@
   <a href="https://ethereum.org/en/web3/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Web 3.0" width="40" height="40"/>
   </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Solidity" width="40" height="40"/>
-  </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat" width="40" height="40"/>
   </a>
