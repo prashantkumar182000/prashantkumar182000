@@ -1,137 +1,78 @@
 [![MasterHead](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif)](https://prashantkumar60099.netlify.app/)
-<h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
-<h3 align="center">A Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SwJr1DGpCgkgNRxRhS/giphy.gif">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+Kumar!;" />
+</h1>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=prashantkumar182000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+<h3 align="center">Software Engineer @ Auralis AI | BIT Mesra '24</h3>
 
-- 🔭 I’m currently working on [BTC-USD-Chart-Dashboard](https://github.com/prashantkumar182000/BTC-USD-Chart-Dashboard)
-- 🌱 I’m currently learning **TypeScript** and **Next.Js**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://prashantkumar60099.netlify.app/)
-- 💬 Ask me about **Java, Python, JavaScript, HTML/CSS, ReactJs, Tailwind CSS, Figma, Git/GitHub**
-- 📫 How to reach me **prashantkumar18.pk@gmail.com**
-- 📄 Know about my experiences [Resume](https://file.io/3ESPH5MuRMDU)
-- ⚡ Fun fact: **I think, I met humor, but it threw an exception and crashed my joke processor. Now I'm stuck debugging and trying to figure out the punchline! 🤔💻**
+<br/>
 
----
+<div align="center">
+ 
+ 🔭 I'm currently working on an **AI Project**. Connect with me to know more.
+ 
+ 🌱 I'm currently exploring **Retrieval Augmented Generation (RAG), Vector DBs and related technologies**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/prashant-kumar-778246188/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/btech60099_20" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
-    </a>
-    <a href="https://prashantkumar60099.netlify.app" target="blank">
-        <img align="center" src="https://prashantkumar60099.netlify.app/logo.png" alt="Website" height="30" width="40" />
-    </a>
-</p>
+ 💬 Ask me about **React, Next.js, TypeScript, Node.js... or anything [here](https://prashantkumar60099.netlify.app/)**
 
----
+ ⚡ Fun fact **The first computer "bug" was an actual real-life bug**
+ 
+ </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center"> 
+  <a href="mailto:prashantkumar18.pk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/prashant-kumar-778246188/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://prashantkumar60099.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<p align="left">
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,nodejs,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,mui,html,css,sass,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,mongodb,mysql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</div>
 
-  <!-- Libraries and Frameworks -->
-  <strong>Libraries and Frameworks:</strong><br>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
-
-  <!-- Design Tools -->
-  <strong>Design Tools:</strong><br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-      <img src="https://framerusercontent.com/images/TvJ9grdPgk3sRz6T6XwkpBrFr4k.png?scale-down-to=512" alt="Framer" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  
-  <br>
+  <br/><br/><br/>
+</div>
 
-  <!-- Web3 and Blockchain Tools -->
-  <strong>Web3 & Blockchain Tools:</strong><br>
-  
-  <a href="https://ethereum.org/en/web3/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Web 3.0" width="40" height="40"/>
-  </a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat" width="40" height="40"/>
-  </a>
-  
-  <br>
+<hr/>
 
-  <!-- Utilities and Version Control -->
-  <strong>Utilities & Version Control:</strong><br>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  
-  <br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=prashantkumar182000&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=prashantkumar182000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prashantkumar182000&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-  <!-- Programming Languages -->
-  <strong>Programming Languages:</strong><br>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  
-  <br>
+<br/><br/>
 
-  <!-- Databases -->
-  <strong>Databases:</strong><br>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  
-</p>
+<hr/>
 
+<br/>
 
----
+<div align="center">
+<a href='https://ko-fi.com/YOUR_KOFI_USERNAME' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkumar182000&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantkumar182000&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumar182000&" alt="GitHub Streak" /></p>
+<br/>
