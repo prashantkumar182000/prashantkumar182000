@@ -1,4 +1,8 @@
+<div align="center">
+    
 [![MasterHead](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif)](https://prashantkumar60099.netlify.app/)
+
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+Kumar!;" />
