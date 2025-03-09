@@ -1,0 +1,18 @@
+name: Update Blog Posts
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@prashantkumar18.pk"
+      - run: |
+          git config --global user.name "Prashant Kumar"
+          git config --global user.email "prashantkumar18.pk@gmail.com"
+          git add README.md
+          git commit -m "Update blog posts"
+          git push
