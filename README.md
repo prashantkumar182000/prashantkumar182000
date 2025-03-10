@@ -91,9 +91,11 @@
 
 ### ✍️ **Latest AI Articles**
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionary AI in Healthcare](https://medium.com/@prashantkumar18.pk/revolutionary-ai-in-healthcare-building-a-medical-image-analysis-system-from-scratch-2025-845f240cedd6)
-- [Building Your Own AI Personal Assistant](https://medium.com/@prashantkumar18.pk/building-your-own-ai-personal-assistant-in-2024-a-comprehensive-guide-from-basics-to-advanced-af6f5739acdf)
-- [The Puppet Master of Dalal Street](https://medium.com/@prashantkumar18.pk/the-puppet-master-of-dalal-street-unraveling-indias-rs-40-000-crore-stock-market-scandal-8d2db8ea22d8)
+- [Revolutionary AI in Healthcare: Building a Medical Image Analysis System from Scratch &lpar;2025…](https://medium.com/@prashantkumar18.pk/revolutionary-ai-in-healthcare-building-a-medical-image-analysis-system-from-scratch-2025-845f240cedd6?source=rss-21608f4aff10------2)
+- [Building Your Own AI Personal Assistant in 2024: A Comprehensive Guide from Basics to Advanced…](https://medium.com/@prashantkumar18.pk/building-your-own-ai-personal-assistant-in-2024-a-comprehensive-guide-from-basics-to-advanced-af6f5739acdf?source=rss-21608f4aff10------2)
+- [The Rise and Fall of First Flight Courier Ltd: A Tale of Dreams, Trust, and Shattered Lives](https://medium.com/@prashantkumar18.pk/the-rise-and-fall-of-first-flight-courier-ltd-a-tale-of-dreams-trust-and-shattered-lives-9d01822612f4?source=rss-21608f4aff10------2)
+- [The Man Who Saved Humanity: The Untold Story of Stanislav Petrov’s Ten Minutes of Truth](https://medium.com/@prashantkumar18.pk/the-man-who-saved-humanity-the-untold-story-of-stanislav-petrovs-ten-minutes-of-truth-113e7db70bda?source=rss-21608f4aff10------2)
+- [The “poorest president in the world”, the president of Uruguay, Jose Mujica, lives a rather modest…](https://medium.com/@prashantkumar18.pk/the-poorest-president-in-the-world-the-president-of-uruguay-jose-mujica-lives-a-rather-modest-21102f2d5f5a?source=rss-21608f4aff10------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
